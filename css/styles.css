@@ -1,0 +1,127 @@
+body {
+  background-color: #EAF6F6;
+  text-align: center;
+  line-height: normal;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  color: #66BFBF;
+  width: auto;
+  font-size: 3rem;
+}
+
+hr {
+  width: 8%;
+  border-style: none;
+  border-top: dotted #3797a4;
+  border-width: 8px;
+}
+
+a {
+  color: #11999E;
+  padding: 0 20px;
+  text-decoration: none;}
+  a:hover{
+    color: white;
+  }
+
+h3 {
+  color: #11999E;
+
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+p {
+  font-size: 1rem;
+  color: #40514E;
+}
+
+.container1 {
+  padding-top:100px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #f7f7f7;
+  padding: 20px 100px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+
+.Interests {
+  width: 70%;
+  font-size: 1rem;
+  margin: 0 auto;
+  /*font-family: 'Sacramento', cursive:*/
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+padding: 50px 0;
+font-size: 1rem;
+  margin: 0;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.dance {
+  width: 200px;
+  float: left;
+}
+
+.img1 {
+  margin-right: 20px;
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+.img2 {
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+
+.img3 {
+  width: 100px;
+  height: 100px;
+}
+
+.myButton {
+
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family: 'Montserrat', sans-serif;
+	font-size:23px;
+	font-weight:normal;
+	padding:16px 44px;
+	text-decoration:none;
+  border-style: none;
+}
+.myButton:hover {
+color:#408c99;
+}
